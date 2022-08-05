@@ -35,6 +35,7 @@ const App =  () => {
                         <span>{el.title}</span>
                     </li>
             )
+
         })}
         </ul>
 
