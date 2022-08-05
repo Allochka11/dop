@@ -34,8 +34,6 @@ const App =  () => {
                         <span>{el.userId} - </span>
                         <span>{el.title}</span>
                     </li>
-
-
             )
         })}
         </ul>
